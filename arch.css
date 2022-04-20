@@ -1,0 +1,180 @@
+
+    
+    
+
+.exe{
+    animation-name:exaud;
+    animation-delay:2s;
+    animation-duration:40s;
+    animation-iteration-count:infinite;
+    
+ 
+    
+}
+@keyframes exaud{
+    
+    10%{
+        margin-left:-450px;
+    }
+    20%{
+        margin-left:-900px;
+    }
+
+30%{
+        margin-left:-1350px;
+    }
+    40%{
+        margin-left:-1800px;
+    }
+
+    50%{
+        margin-left:-2250px;
+    }
+    60%{
+        margin-left:-2700px;
+    }
+
+    70%{
+        margin-left:-3150px;
+    }
+
+    80%{
+        margin-left:-3600px;
+    }
+
+    90%{
+        margin-left:-4050px;
+    }
+    
+    
+    
+    
+    
+
+
+}
+
+
+
+
+
+
+
+body
+{
+    background:rgb(47, 47, 61);
+}
+.a1
+{
+    margin-left: 29px;
+    color:  rgb(167, 167, 233);
+    font-size: 17px;
+}
+.a2
+{
+    margin-left: 29px;
+    color:  rgb(167, 167, 233);
+    font-size: 17px;
+}
+.a3
+{
+    margin-left: 29px;
+    color: rgb(167, 167, 233);
+    font-size: 17px;
+}
+.a4
+{
+    margin-left: 29px;
+    background: rgba(224, 182, 212, 0.664);
+}
+
+
+@media screen and (max-width: 500px)
+{
+    bordy 
+    {
+        flex-direction: column;
+        width: 300px;
+        height: 500px;
+        background: grey;
+    }
+
+    
+    .general_dv
+    {
+        flex-direction: column;
+        width: 270px;
+        height: 500px;
+        background: white;
+    }
+    .entite
+    {
+        flex-direction: column;
+        width: 300px;
+        height: 400px;
+        float: auto;
+    }
+    .drapeau
+    {
+        width: 200px;
+        height: 200px;
+        margin-left: 10px;
+    }
+    .logo
+    {
+        width: 200px;
+        height: 200px;
+        margin-left:10px; 
+    }
+    .titre_eglise
+    {
+        flex-direction: column;
+        width: 270px;
+        height: 200px;
+        float:auto; 
+        margin-left: 3px;
+        margin-bottom: 30px;
+    }
+    .nom_eglise
+    {
+        text-align: center;
+    }
+    .menu
+    {
+        flex-direction: column;    
+        width: 270px;
+        height: 200px;
+        margin-left: 70px;
+        margin-top: 26px;
+    }
+    .defiler
+    {
+        flex-direction: column;
+        width: 270px;
+        height: 300px;
+        margin-top: 96px;
+    }
+    .moumeb
+    {
+        width: 300px;
+        flex-direction: column;
+        float: auto;
+    }
+    .dvmere
+    {
+        flex-direction: column;
+        width: 300px;
+    }
+    .nam
+    {
+        width: auto;
+        flex-direction:column; 
+        
+    }
+    .fm
+    {
+        width: 200px;
+        flex-direction:column;  
+    }
+
+}

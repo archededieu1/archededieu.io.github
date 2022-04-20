@@ -1,0 +1,34 @@
+
+
+
+@media screen and (max-width:500px) 
+{
+    body
+    {
+        flex-direction: column;
+        width: 250px;
+        background: red;
+        
+    }
+    .dvmoume
+    {
+        flex-direction: column;
+        width: 200px;
+
+    }
+
+    .moumette_x
+    {
+        margin-left: 35px;
+        width: 300px;
+    }
+
+    .moumette_z
+    {
+        margin-left: 35px;
+    }
+
+    
+}
+
+

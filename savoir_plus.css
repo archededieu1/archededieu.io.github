@@ -1,0 +1,198 @@
+
+
+.dvfont
+{
+
+
+    background-image: url("11.JPG");
+    background-size: cover;
+    background-position: center;
+}
+
+.dvdefl
+{
+   
+    background-image: url("font.png");
+}
+
+.prot
+{
+
+    background-image: url('ptcole.PNG');
+    background-position: center;
+    background-size: cover;
+}
+
+.mus
+{
+
+    background-image: url('music.PNG');
+    background-position: center;
+    background-size: cover;
+}
+
+.sec
+{
+
+    background-image: url('security.PNG');
+    background-position: center;
+    background-size: cover;
+}
+
+.pres
+{
+
+    background-image: url('press.PNG');
+    background-position: center;
+    background-size: cover;
+}
+
+
+.a2
+{
+
+    background-image: url('evange.PNG');
+    background-position: center;
+    background-size: cover;
+}
+.jpc
+{
+
+    background-image: url('jeunes.PNG'); 
+    background-position: center;
+    background-size: cover;
+}
+
+.interc
+{
+
+    background-image: url('inter.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+
+  .ecod
+{
+
+    background-image: url('enfant.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+
+  .moum
+{
+
+    background-image: url('femme.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+
+  .sos
+{
+
+    background-image: url('social.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+  .pap
+{
+
+    background-image: url('papa.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+  .aud
+{
+
+    background-image: url('audite.PNG');
+    background-position: center;
+    background-size: cover;
+  }
+
+
+
+
+
+
+
+body
+{
+    font-size: 17px;
+}
+ input
+{
+    height: 20px;
+    width: 180px;
+    border-radius: 5px;
+    margin-top: 4px;
+   
+    align-items: center;
+    
+}
+
+
+@media (min-width: 400px) and (max-width: 860px)
+ { 
+    
+    *
+    {
+        width: 300px;
+        flex-direction: column;
+        background: rgb(237, 238, 245);
+        float: auto;
+        font-size: 19px;
+        
+
+
+    }
+    .dvmpsp
+    {
+        flex-direction: row;
+        width:200px;
+        margin-left:-10px;
+        margin-top: 10px;
+        color:rgb(38, 12, 87);
+        border: none;
+        margin-top: 20px;
+    }
+    .g4
+    {
+        flex-direction: row;
+        width:50px;
+        margin-left: -10px;
+        margin-top: 10px;
+        color: rgb(22, 10, 85);
+        border: none;
+
+
+    }
+    a
+    {
+
+        width: 100px;
+        margin-left: 5px;
+
+    }
+    .a2
+    {
+        margin-left: 20px;
+        width:100px;
+     }
+     .dvm
+     {
+        width: 100px;
+        margin-left: 5px;
+        color:rgb(15, 11, 68);
+    
+
+     }
+     .dvms
+     {
+         width:12Opx;
+         color:rgb(18, 9, 71);
+         border: none;
+
+     }
+
+}
+   

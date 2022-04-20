@@ -1,0 +1,63 @@
+
+#ani{
+		animation-name: jj;
+		animation-delay:2s;
+		animation-duration:30s;
+		animation-iteration-count:infinite;
+		animation-timing-function:ease;
+
+	}
+	@keyframes jj{
+		10%{
+			margin-left:-1350px;
+		}
+		20%{
+		margin-left:-2700px;	
+		}
+	
+	30%{
+		margin-left:-4050px;	
+
+
+	}
+
+
+	40%{
+		margin-left:-5400px;	
+
+
+	}
+
+	50%{
+		margin-left:-6750px;	
+
+
+	}
+	
+	60%{
+		margin-left:-8100px;	
+
+
+	}
+
+	70%{
+		margin-left:-9450px;	
+
+
+	}
+	
+	80%{
+		margin-left:-10800px;	
+
+
+	}
+
+	90%{
+		margin-left:-12150px;	
+
+
+	}
+	
+	
+	
+
